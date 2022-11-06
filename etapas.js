@@ -63,6 +63,30 @@ let etapas = [
                     {url:'https://www.tse.jus.br/hotsites/simulador-de-votacao/image/figuras/135x145/24bpp/9302_operario.jpg', legenda: 'Presidente', small: false }
                 ]
             },
+            {
+                numero: 45,
+                name: 'Padre Clelson',
+                partido: 'PMS',
+                fotos: [
+                    {url:'https://www.tse.jus.br/hotsites/simulador-de-votacao/image/figuras/135x145/24bpp/9302_operario.jpg', legenda: 'Presidente', small: false }
+                ]
+            },
+            {
+                numero: 33,
+                name: 'Narina Silva',
+                partido: 'SUMI',
+                fotos: [
+                    {url:'https://www.tse.jus.br/hotsites/simulador-de-votacao/image/figuras/135x145/24bpp/9302_operario.jpg', legenda: 'Presidente', small: false }
+                ]
+            },
+            {
+                numero: 70,
+                name: 'Simone Tablet',
+                partido: 'PMLD',
+                fotos: [
+                    {url:'https://www.tse.jus.br/hotsites/simulador-de-votacao/image/figuras/135x145/24bpp/9302_operario.jpg', legenda: 'Presidente', small: false }
+                ]
+            },
         ]
     }
 ]
