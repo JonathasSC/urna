@@ -43,6 +43,26 @@ let etapas = [
                     {url:'https://www.tse.jus.br/hotsites/simulador-de-votacao/image/figuras/95x105/24bpp/93_magico.jpg', legenda: 'Vereador', small: fals }
                 ]
             },
+        ],
+        titulo: 'PRESIDENTE',
+        numeros: 2,
+        candidatos: [
+            {
+                numero: 12,
+                name: 'Luigi Inacio',
+                partido: 'TP',
+                fotos: [
+                    {url:'https://www.tse.jus.br/hotsites/simulador-de-votacao/image/figuras/135x145/24bpp/9302_operario.jpg', legenda: 'Presidente', small: false }
+                ]
+            },
+            {
+                numero: 22,
+                name: 'Jailson Bolosauro',
+                partido: 'PM',
+                fotos: [
+                    {url:'https://www.tse.jus.br/hotsites/simulador-de-votacao/image/figuras/135x145/24bpp/9302_operario.jpg', legenda: 'Presidente', small: false }
+                ]
+            },
         ]
     }
 ]
