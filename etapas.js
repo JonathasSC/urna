@@ -4,7 +4,7 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: 11111,
+                numero: '11111',
                 name: 'João Tapa',
                 partido: 'PSTP',
                 fotos: [
@@ -12,7 +12,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 22222,
+                numero: '22222',
                 name: 'Vitor Pedrada',
                 partido: 'PSPS',
                 fotos: [
@@ -20,7 +20,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 33333,
+                numero: '33333',
                 name: 'Anderson Lapada',
                 partido: 'VSLP',
                 fotos: [
@@ -28,7 +28,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 44444,
+                numero: '44444',
                 name: 'Joana Machadada',
                 partido: 'PLPT',
                 fotos: [
@@ -36,7 +36,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 55555,
+                numero: '55555',
                 name: 'Vilson Mancada',
                 partido: 'LSDP',
                 fotos: [
@@ -50,7 +50,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 77,
+                numero: '77',
                 name: 'Marilia Arraia',
                 partido: 'MDS',
                 vice: 'Cicero Noites',
@@ -60,7 +60,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 45,
+                numero: '45',
                 name: 'Raquel Mira',
                 partido: 'ETA',
                 vice: 'Carroaru',
@@ -70,7 +70,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 88,
+                numero: '88',
                 name: 'João Pato',
                 partido: 'MDB',
                 fotos: [
@@ -79,7 +79,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 10,
+                numero: '10',
                 name: 'Ivanilda Santos',
                 partido: 'SLK',
                 fotos: [
@@ -88,7 +88,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 69,
+                numero: '69',
                 name: 'Heraldo',
                 partido: 'BLk',
                 fotos: [
@@ -102,7 +102,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 12,
+                numero: '12',
                 name: 'Luigi Inacio',
                 partido: 'TP',
                 fotos: [
@@ -110,7 +110,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 22,
+                numero: '22',
                 name: 'Jailson Bolosauro',
                 partido: 'PM',
                 fotos: [
@@ -118,7 +118,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 45,
+                numero: '45',
                 name: 'Padre Clelson',
                 partido: 'PMS',
                 fotos: [
@@ -126,7 +126,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 33,
+                numero: '33',
                 name: 'Narina Silva',
                 partido: 'SUMI',
                 fotos: [
@@ -134,7 +134,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 70,
+                numero: '70',
                 name: 'Simone Tablet',
                 partido: 'PMLD',
                 fotos: [
