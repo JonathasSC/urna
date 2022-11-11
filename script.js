@@ -30,7 +30,16 @@ function ComecarEtapa() {
 }
 
 function atualizaInterface() {
-    alert(numero)
+    let etapa = etapas[etapaAtual];
+    let candidato = etapa.candidatos.filter((item)=> {
+        if(item.numero === numero){
+            return true;
+        }
+        else {
+            return false;
+        }
+    });
+    alert("Candidato", candidato)
 }
 
 function clicou(n){
